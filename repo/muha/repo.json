@@ -1,0 +1,8 @@
+{
+    "name": "muha providers repository",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/MuhaGX/cloudstream-extensions-muha/master/repo/muha/plugin.json"
+    ]
+}
