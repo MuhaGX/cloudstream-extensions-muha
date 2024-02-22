@@ -1,0 +1,21 @@
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=anoboy.io&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+    "fileSize": 21970,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Eddy"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "Anoboy",
+    "description": "Anoboy, situs di mana Anda dapat menonton film dan serial TV favorit Anda",
+    "url": "https://raw.githubusercontent.com/MuhaGX/cloudstream-extensions-muha/builds/Anoboy.cs3",
+    "name": "Anoboy"
+  }
+  
